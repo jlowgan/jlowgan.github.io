@@ -66,8 +66,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jlowgan"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=fURW_TIAAAAJ&hl=en"
 
 footer:
   links:
@@ -75,7 +75,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jlowgan"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=fURW_TIAAAAJ&hl=en"
 
 defaults:
