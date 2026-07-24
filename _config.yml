@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jessie Gan, BS Biochemistry
+title: Jessie Gan, Biochemistry @ MIT
 email: jlowgan@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a first year PhD student at MIT Biology. I study computational protein design and IDRs.
