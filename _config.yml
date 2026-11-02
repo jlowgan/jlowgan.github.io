@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Jessie Gan"
-  avatar : "/assets/images/headshot.png"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "BS Caltech, Biochemistry"
   links:
     - label: "Website"
